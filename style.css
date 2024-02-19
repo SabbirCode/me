@@ -64,9 +64,23 @@ body {
 }
 
 .header {
-	background-color: var(--primary);
+	
 }
 
+.name{
+  align-items: center ;
+  width:70%;
+  justify-content: center;
+animation: ii  3s ease-in 7.1s forwards;
+  visibility: hidden;
+}
+
+@keyframes ii{
+
+  
+  to{visibility: visible;
+}
+}
 .navbar {
 	padding-top: .5em;
 	padding-bottom: .5em;
@@ -383,4 +397,5 @@ body {
 
 
 
-  
+
+	
