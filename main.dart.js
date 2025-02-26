@@ -83399,7 +83399,7 @@ A.au9.prototype={
 $1(a){return new A.lS($.auG(),$.aA())},
 $S:533}
 A.MM.prototype={
-M(a){return new A.As(new A.J5(null),"Flutter Demo",A.awi(a,!0,t.eC).a,null)}}
+M(a){return new A.As(new A.J5(null),"mCare",A.awi(a,!0,t.eC).a,null)}}
 A.oQ.prototype={
 am(){var s,r,q,p,o="[DEFAULT]",n=$.aA(),m=$.bg,l=(m==null?$.bg=$.cU():m).d5(o)
 m=$.ej()
