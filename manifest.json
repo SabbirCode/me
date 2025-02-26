@@ -1,11 +1,11 @@
 {
-    "name": "newchatapp",
-    "short_name": "newchatapp",
+    "name": "mCare",
+    "short_name": "mCare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mathbaria Care project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
