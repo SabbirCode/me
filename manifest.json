@@ -1,6 +1,6 @@
 {
-    "name": "mCare",
-    "short_name": "mCare",
+    "name": "mcare",
+    "short_name": "mcare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
